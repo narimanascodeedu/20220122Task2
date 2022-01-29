@@ -1,0 +1,17 @@
+﻿Program Calculate
+
+READ a = 123
+
+
+
+
+IF a >= 100 & a < 1000 THEN
+SET a = a * 10 + 7
+SET a = a * 0.07
+
+
+DISPLAY a
+
+
+ELSE
+DISPLAY "eded 3 reqemli deyil"

@@ -1,0 +1,17 @@
+﻿Program Calculate
+
+READ a = 1234
+
+
+
+
+IF a >= 1000 & a < 10000 THEN
+SET a = a + 40000
+SET a = a * 100 + 44
+
+
+DISPLAY a
+
+
+ELSE
+DISPLAY "eded 4 reqemli deyil"

@@ -1,0 +1,24 @@
+﻿Program Calculate
+
+READ a = 12345
+
+
+
+
+IF a >= 10000 & a < 100000 THEN
+SET d = a * 0.18
+SET a = a * 0.03
+
+
+DISPLAY d
+DISPLAY a
+
+ELSE
+DISPLAY "eded 5 reqemli deyil"
+
+
+
+
+
+
+
